@@ -1,0 +1,10 @@
+Matplotlib Homework Write- Up
+Kwadwo Asante
+SMU Cohort 
+Proffesor Booth
+
+- Propriva can be seen to have a shorter trial giving the ability to have a less time to work on the tumor but was just as effective as some of the other drug.
+
+- Capomulin drug worked poorly from the looks of the mouse weight versus average tumor volume with the treatment the tumor seems to have increased in mass throughout time. 
+
+- When looking at the plot of all four volumes of the medicine we can gather that ramican and capomulin are the ones that worked effecivily amongst the medicines. 
